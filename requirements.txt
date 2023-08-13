@@ -1,0 +1,2 @@
+python_docx==0.8.11
+xlrd==1.2.0

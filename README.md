@@ -1,8 +1,26 @@
 # python-tools
 Scripts for handling some daily needs
 
-#### scrapy
+##### use requirements.txt
+```
+pip install -r requirement.txt
+pip freeze >requirements.txt
 
+pip freeze >requirements.txt
+pipreqs ./
+pipreqs ./ --force
+```
+
+
+#### crawler
+- douban_ren.py
+  1. Help a friend find rent infos  in douban group
+  2. Use xlsxwriter to write xlsx and requests to fetch html content
+  3. Use re to `String Pattern Matching`
+  4. Crawler used cookie from chrome，and the automated fetching did not complete
+  5. To be optimized
+
+      
 
 #### document
 - convert.py
