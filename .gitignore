@@ -161,7 +161,12 @@ cython_debug/
 
 
 
-#### file
+# file
 /**/*.xlsx
 
+# vscode 
+.DS_Store
 
+
+# IDE
+.idea/

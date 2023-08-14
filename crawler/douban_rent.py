@@ -200,7 +200,7 @@ def randomSleep():
     time.sleep(num)
 
 def getCookie():
-    return """"""
+    return """ """
 
 def getHeader(cookie):
     headers = {
